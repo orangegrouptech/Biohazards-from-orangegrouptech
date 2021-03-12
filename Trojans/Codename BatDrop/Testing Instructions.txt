@@ -1,0 +1,8 @@
+1) Turn your internet ON
+2) Install Filmora using its setup (you can download it from Filmora's website - not included due to space limitations in GitHub)
+3) After installing, open "Activator WF X10.xx.exe"
+4) Open Filmora (close it after that if you want)
+5) If you did the above 4 steps correctly, you should see a few suspicious batch and .reg files
+6) Reboot the VM/testing machine into safe mode
+7) You might see a "You're about to be signed out" message and Windows would reboot
+8) Check services.msc, that's where the Windows Defender service deletion occured
