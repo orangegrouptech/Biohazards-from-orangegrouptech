@@ -1,5 +1,8 @@
 # Biohazards-from-orangegrouptech
-Malware Database. **Biohazardous, please use VMs only.**
+Malware Database. 
+
+**Biohazardous, please use VMs only.**
+
 Examples of VM applications include, but are not limited to:
 - VirtualBox (ugh)
 - VMware (recommended)
