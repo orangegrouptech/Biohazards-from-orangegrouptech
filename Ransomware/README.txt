@@ -1,0 +1,1 @@
+These samples are all REAL ransomware and are NOT safe. Use on a VM.

@@ -1,0 +1,1 @@
+ALL trojans are unsafe. Run on a VM.
